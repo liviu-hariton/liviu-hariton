@@ -7,7 +7,7 @@ I also have experience with media and web design (UI, UX, vector graphics, publi
 I am proactive and I like to participate in all phases of a project, from idea, through specification and implementation, be it visual (frontend) or functional (backend, or full-stack). I enjoy working with people from all specializations inside a team or a company and I am a firm believer in quick, honest feedback and iterative design.
 
 Here is a non-exhaustive list of technologies I'm working with:
-- Frontend: Bootstrap, JavaScript / jQuery, Vue.js CSS, HTML
+- Frontend: Bootstrap, JavaScript / jQuery, Vue.js, CSS, HTML
 - Backend: PHP, Laravel, SQL, Elasticsearch, Linux / Shell / SSH / FTP
 - Tools: PhpStorm, Azure Data Studio, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, CorelDRAW! 
 
